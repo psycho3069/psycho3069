@@ -5,15 +5,46 @@ Leading a growing startup, building scalable systems with Laravel, VueJS, and mo
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech & Tools
+
+### 💻 Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🧱 Frameworks & Tools
+![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat&logo=cakephp&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white)
+
+### ⚙️ Other Tools & Skills
+![REST API](https://img.shields.io/badge/-REST%20API-00599C?style=flat)
+![FinTech](https://img.shields.io/badge/-FinTech-0A66C2?style=flat)
+![Debugging](https://img.shields.io/badge/-Debugging-grey?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat)
+
+### 🧠 Methodologies & Soft Skills
+![Agile](https://img.shields.io/badge/-Agile-1D76DB?style=flat)
+![MVC](https://img.shields.io/badge/-MVC-FFCA28?style=flat)
+![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-17a2b8?style=flat)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-success?style=flat)
+![Time Management](https://img.shields.io/badge/-Time%20Management-blueviolet?style=flat)
+![Work Under Pressure](https://img.shields.io/badge/-Work%20Under%20Pressure-red?style=flat)
+
 
 ---
 
