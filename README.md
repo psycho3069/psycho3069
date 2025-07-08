@@ -46,10 +46,10 @@ Leading a growing startup, building scalable systems with Laravel, VueJS, and mo
 | [**Booking Platform**](https://fly0.co)                                                  | Fly0 Ltd                              | Laravel, MySQL, API integrations           | Scalable flight/hotel booking engine                               |
 | [**JnJ Migration to Contentful**](https://sjinnovation.com)                              | SJ Innovation                         | Contentful, Jira, Scrum                    | Enterprise CMS migration                                           |
 | [**Simple Therapy**](https://simpletherapy.com)                                          | SJ Innovation                         | Laravel, Strapi, AWS Lambda                | Microservice architecture with admin panel                         |
-| [**Fynbos / Kuda / Broke-Relief**](https://fynbos.co.za), [Kuda FX](https://kuda.co.za), [Broke Relief](https://brokerelief.cash) | Namhost         | Laravel HMVC, MySQL, REST APIs             | Financial API-based cash management systems                        |
-| [**Grameenphone LMS / bSafe**](https://grameenphone.academy), [bSafe](https://bsafe.grameenphone.com) | IYLMA Innovation | Laravel, CodeIgniter, REST APIs            | GrameenPhone’s LMS and safety checklist platform                   |
-| [**FSCD Store / E-NOC / E-HRM**](https://estore.fireservice.gov.bd), [E-NOC](https://enoc.fireservice.gov.bd), [E-HRM](https://ehrm.fireservice.gov.bd) | Perky Rabbit | Laravel, Bootstrap, MVC                    | HR and workshop/fleet system, certificate automation for FSCD      |
-| [**AFMI Website**](https://afmibd.net), [Trust Green City](https://trustgreencity.net), [BayWatch](https://baywatch.com.bd) | Trust Innovation Ltd | WordPress, Laravel, WooCommerce           | Web portals with admission/booking/e-commerce features             |
+| [**Fynbos**](https://fynbos.co.za), [**Kuda FX**](https://kuda.co.za), [**Broke Relief**](https://brokerelief.cash) | Namhost         | Laravel HMVC, MySQL, REST APIs             | Financial API-based cash management systems                        |
+| [**Grameenphone Academy**](https://grameenphone.academy), [**Grameenphone bSafe**](https://bsafe.grameenphone.com) | IYLMA Innovation | Laravel, CodeIgniter, REST APIs            | GrameenPhone’s LMS and safety checklist platform                   |
+| [**FSCD E-Store**](https://estore.fireservice.gov.bd), [**FSCD E-NOC**](https://enoc.fireservice.gov.bd), [**FSCD E-HRM**](https://ehrm.fireservice.gov.bd) | Perky Rabbit | Laravel, Bootstrap, MVC                    | HR and workshop/fleet system, certificate automation for FSCD      |
+| [**AFMI Website**](https://afmibd.net), [**Trust Green City**](https://trustgreencity.net), [**BayWatch**](https://baywatch.com.bd) | Trust Innovation Ltd | WordPress, Laravel, WooCommerce           | Web portals with admission/booking/e-commerce features             |
 
 ---
 
@@ -67,9 +67,10 @@ Leading a growing startup, building scalable systems with Laravel, VueJS, and mo
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-khan-a6a8b2157/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/farhankhan3069)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farha100669@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-khan-a6a8b2157/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=green)](https://wa.me/8801625975405)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/farhankhan3069)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-D14836?style=flat&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/8607640/farhan-ibn-wahid)
 
 ---
